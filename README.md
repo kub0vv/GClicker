@@ -1,2 +1,5 @@
 # GClicker
-Publiczne repo gclickera
+
+Upubliczniam source dla was kociaki! 
+
+# By kub0vv_ & rubus
